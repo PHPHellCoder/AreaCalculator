@@ -5,7 +5,7 @@ Ten program oblicza obszar trójkąta z trzech punktów na płaszczyźnie wspó�
 import math
 import matplotlib.pyplot as plt
 
-
+# Class of triangle_
 class Triangle:
     def __init__(self, a, b, c):
         self.point_a = a
