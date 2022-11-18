@@ -2,8 +2,11 @@
 Ten program oblicza obszar trójkąta z trzech punktów na płaszczyźnie współrzędnych
 """
 
+# Importing
 import math
 import matplotlib.pyplot as plt
+
+# Code
 
 # Class of triangle_
 class Triangle:
